@@ -1,0 +1,10 @@
+﻿{
+  "name": "leaflet.d.ts-gen",
+  "version": "0.0.1",
+  "description": "Transform Leaflet.js API doc to TypeScript Defenition file",
+  "main": "app.js",
+  "author": {
+    "name": "prohazko",
+    "email": "olegprohazko@outlook.com"
+  }
+}
